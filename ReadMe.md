@@ -1,5 +1,5 @@
 # 💫 About Me:
-😁Meu nome é Vinícius Araujo Ramos<br>⭐Conclui meu ensino medio na Etec MCM<br> ⭐Atualmente estou cursando BC & T na UFABC<br>📕Este perfil é dedicado a meus estudos na matéria de TI<br>📗Aqui postarei meus projetos escolares e pessoais<br>📘Pretendo me tornar um programador Full stack
+😁Meu nome é Vinícius Araujo Ramos<br>⭐Conclui meu ensino medio na Etec MCM<br> ⭐Atualmente estou cursando BC & T na UFABC<br>📕Este perfil é dedicado a meus estudos no mundo da técnologia<br>📗Aqui postarei meus projetos escolares e pessoais<br>📘Pretendo me tornar um programador Full stack
 
 
 ## 🌐 Socials:
