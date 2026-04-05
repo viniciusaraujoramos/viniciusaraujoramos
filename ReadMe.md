@@ -1,5 +1,12 @@
-# 💫 About Me:
-😁Meu nome é Vinícius Araujo Ramos<br>⭐Conclui meu ensino medio na Etec MCM<br> ⭐Atualmente estou cursando BC & T na UFABC<br>📕Este perfil é dedicado a meus estudos no mundo da técnologia<br>📗Aqui postarei meus projetos escolares e pessoais<br>📘Pretendo me tornar um programador Full stack
+# Olá, me chamo Vinícius Araujo Ramos
+Sou estudante da Universidade Federal do ABC (UFABC), com forte inclinação pelas áreas de exatas, tecnologia e resolução de problemas complexos.
+
+Tenho grande interesse em utilizar a programação e a matemática como ferramentas para construir soluções eficientes, sempre buscando evoluir minha capacidade analítica e lógica.
+
+Atualmente, estou aprofundando meus conhecimentos no ecossistema Python e no campo de Ciência e Análise de Dados, desenvolvendo projetos que conectam teoria e prática, com foco em aprendizado contínuo e aplicação real.
+
+Neste perfil, compartilho meus projetos autorais, trabalhos acadêmicos e experimentos práticos, refletindo minha trajetória de desenvolvimento e compromisso com a excelência.
+
 
 
 ## 🌐 Socials:
