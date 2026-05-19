@@ -1,4 +1,7 @@
-# Olá, me chamo Vinícius Araujo Ramos
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=0F52BA&background=FF6C0000&random=false&width=435&lines=Seja+bem+vindo+ao+meu+perfil+GitHub!;Ol%C3%A1%2C+me+chamo+Vinícius+Araujo!" alt="Typing SVG" />
+</a>
+
 Sou estudante da Universidade Federal do ABC (UFABC), com forte inclinação pelas áreas de exatas, tecnologia e resolução de problemas complexos.
 
 Tenho grande interesse em utilizar a programação e a matemática como ferramentas para construir soluções eficientes, sempre buscando evoluir minha capacidade analítica e lógica.
